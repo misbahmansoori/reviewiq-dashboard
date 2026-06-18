@@ -169,6 +169,9 @@ npm run dev
 
 ---
 
+## Live Demo 
+[Demo](https://reviewiq-dashboard-hazel.vercel.app/)
+
 ## Assignment Note
 
 This project focuses on product thinking, dashboard design, and user experience. The current implementation is a frontend prototype/wireframe showcasing how ecommerce brands can gain actionable insights from large volumes of customer reviews.
